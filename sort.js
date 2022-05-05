@@ -8,6 +8,7 @@ var sortNumber = function (number) {
 };
 
 // This is the first commit
+// This is the second commit
 
 var number = [19, 3, 81, 1, 24, 21];
 sortNumber(number);
